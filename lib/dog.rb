@@ -3,6 +3,6 @@ end
 
 fido = Dog.new 
 
-snoopy = Dpg.new 
+snoopy = Dog.new 
 
 lassie = Dog.new 
